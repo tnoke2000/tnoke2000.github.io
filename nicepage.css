@@ -34312,7 +34312,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-text-1 {
-    margin: 20px 297px 16px 0;
+    margin-right: 297px;
+    margin-left: 0;
   }
 }
 @media (max-width: 767px) {
