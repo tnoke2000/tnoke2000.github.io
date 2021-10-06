@@ -105,15 +105,10 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1rem;
-  margin: 14px 54px 0 71px;
+  margin: 10px 60px 0 65px;
 }
 
 .u-section-2 .u-btn-1 {
-  padding: 0;
-}
-
-.u-section-2 .u-btn-2 {
-  color: rgba(0, 0, 0, 0);
   padding: 0;
 }
 
@@ -168,7 +163,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 257px;
+  min-height: 293px;
 }
 
 .u-section-3 .u-text-1 {
@@ -180,21 +175,23 @@
 }
 
 .u-section-3 .u-shape-1 {
-  height: 219px;
+  height: 269px;
   margin-top: -38px;
   margin-bottom: 0;
 }
 
 .u-section-3 .u-text-2 {
   font-size: 1rem;
-  margin: -173px 96px 60px;
+  margin: -222px 96px 59px;
 }
 
 .u-section-3 .u-btn-1 {
+  background-image: none;
   padding: 0;
 }
 
 .u-section-3 .u-btn-2 {
+  background-image: none;
   padding: 0;
 }
 
@@ -203,6 +200,14 @@
 }
 
 .u-section-3 .u-btn-4 {
+  padding: 0;
+}
+
+.u-section-3 .u-btn-5 {
+  padding: 0;
+}
+
+.u-section-3 .u-btn-6 {
   padding: 0;
 }
 
@@ -215,7 +220,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 293px;
+    min-height: 342px;
   }
 
   .u-section-3 .u-text-1 {
@@ -223,21 +228,23 @@
   }
 
   .u-section-3 .u-shape-1 {
-    height: 251px;
-    width: 742px;
+    height: 324px;
+    width: 747px;
     margin-top: -47px;
-    margin-left: -11px;
-    margin-right: -11px;
+    margin-left: -13px;
+    margin-right: -13px;
   }
 
   .u-section-3 .u-text-2 {
-    margin-top: -196px;
+    width: auto;
+    margin-top: -270px;
+    margin-bottom: 60px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 389px;
+    min-height: 464px;
   }
 
   .u-section-3 .u-text-1 {
@@ -245,21 +252,21 @@
   }
 
   .u-section-3 .u-shape-1 {
-    height: 285px;
+    height: 373px;
+    width: 572px;
     margin-top: 12px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    margin-left: -16px;
+    margin-right: -16px;
   }
 
   .u-section-3 .u-text-2 {
-    margin-top: -243px;
+    margin-top: -331px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 493px;
+    min-height: 593px;
   }
 
   .u-section-3 .u-text-1 {
@@ -267,15 +274,15 @@
   }
 
   .u-section-3 .u-shape-1 {
-    height: 446px;
+    height: 563px;
     margin-top: -36px;
-    width: auto;
     margin-right: initial;
     margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-text-2 {
-    margin-top: -402px;
+    margin-top: -519px;
   }
 }.u-section-4 {
   background-image: none;
