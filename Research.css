@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: linear-gradient(#a6880c, white);
 }
 
@@ -77,7 +77,7 @@
   .u-section-1 .u-text-1 {
     width: 320px;
   }
-}.u-section-2 {
+} .u-section-2 {
   background-image: none;
 }
 
@@ -157,7 +157,7 @@
   .u-section-2 .u-group-1 {
     width: 340px;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
 }
 
@@ -283,7 +283,7 @@
   .u-section-3 .u-text-2 {
     margin-top: -519px;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: none;
 }
 
