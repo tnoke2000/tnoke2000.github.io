@@ -104,10 +104,16 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 26px 58px 0 82px;
+  margin: 22px 68px 0 73px;
 }
 
 .u-section-2 .u-btn-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  color: rgba(0, 0, 0, 0);
   padding: 0;
 }
 
