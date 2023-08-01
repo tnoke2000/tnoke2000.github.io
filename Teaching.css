@@ -18,7 +18,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 1397px;
+  min-height: 1411px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -60,7 +60,7 @@
 }
 
 .u-section-1 .u-layout-cell-3 {
-  min-height: 60px;
+  min-height: 46px;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -70,14 +70,14 @@
 .u-section-1 .u-text-5 {
   font-weight: 700;
   font-size: 1.25rem;
-  margin: -1448px 44px 0 707px;
+  margin: -1451px 44px 0 707px;
 }
 
 .u-section-1 .u-image-1 {
   width: 390px;
   background-image: url("images/activity3.jpeg");
   height: 390px;
-  margin: 29px 44px 0 auto;
+  margin: 32px 44px 0 auto;
 }
 
 .u-section-1 .u-container-layout-5 {
@@ -98,7 +98,7 @@
 .u-section-1 .u-image-3 {
   width: 338px;
   height: 338px;
-  margin: -720px 83px 521px auto;
+  margin: -720px 83px 545px auto;
 }
 
 @media (max-width: 1199px) {
